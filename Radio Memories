@@ -1,0 +1,159 @@
+| Receive Frequency | Operating Mode | Name |
+| 146.52 | FM | 2M Calling              |
+| 223.5 | FM | 1.25m Calling            |
+| 444.6 | FM | 70cm Calling             |
+| 144 | D-Star | 2m DStar Calling       |
+| 223 | D-Star | 1.25m Ds Calling       |
+| 440 | D-Star | 70cm Ds Calling        |
+| 52.525 | FM | 6M FM Calling           |
+| 50.3 | FM | 6M FM CallingWes          |
+| 50.4 | AM | 6M AM Calling             |
+| 147.52 | FM | YSF Call                |
+| 147.28 | FM | WA7UID Phoenix          |
+| 146.8 | FM | Phx StJoseph             |
+| 146.64 | FM | Chs EL 2m               |
+| 441.625 | FM | SctsdlAirprt           |
+| 449.525 | FM | Shaw ARA Lnk           |
+| 147.3 | FM | SunCty NY7S              |
+| 449.8 | FM | SunCity NY7S Sec         |
+| 147.12 | FM | UseryMesa 2mLink        |
+| 449.6 | FM | UseryMesa 70Link         |
+| 448.275 | FM | Usery YSF              |
+| 146.7 | FM | W7TBC 2m                 |
+| 147.04 | FM | W7TBC 2m Lnk            |
+| 446.15 | FM | W7TBC 70cm Lnk          |
+| 147.06 | FM | Phoenix W7UXZ           |
+| 146.84 | FM | Biltmore2M K7ARC        |
+| 446.9 | FM | Biltmore70 K7ARC         |
+| 442.7 | FM | WW7B Armory              |
+| 442.925 | FM | N7SKT WhtTnks          |
+| 147.02 | FM | W7BSA Usery             |
+| 147.08 | FM | KG7UN ThmpsnPk          |
+| 145.33 | FM | WB7TUJ SE Mesa          |
+| 146.72 | FM | K7DAD W Mesa            |
+| 147.34 | FM | W7MOT Sctsdle           |
+| 147.38 | FM | N7ULY WhtTnks           |
+| 443.05 | FM | W7MOT SMtn              |
+| 444.825 | FM | AJ7T SMtn              |
+| 442.375 | FM | K7TMP Tempe            |
+| 447.5 | FM | WB7DYG Chndlr            |
+| 145.23 | FM | AF7BJysf                |
+| 440.375 | FM | WhtTnkYF               |
+| 146.66 | FM | Usery YSF               |
+| 447.65 | FM | Usery YSF               |
+| 448 | FM | WhtTnkYF                   |
+| 448.1 | FM | Bill YSF                 |
+| 448.325 | FM | N8NQP                  |
+| 449.425 | FM | K0NL YSF               |
+| 442.9 | FM | S.Mtn W7ZAA YSF          |
+| 147.18 | FM | Sctsdlarc YSF           |
+| 440 | FM | Sctsdlarc YSF              |
+| 445.275 | FM | Matrix YSF             |
+| 449.025 | FM | K7PNX MtroCntr         |
+| 442.2 | FM | K7PNX SMtn               |
+| 448.85 | FM | K7PNX CvCreek           |
+| 447.1 | FM | K7PNX Far E Mesa         |
+| 446.6 | FM | Glndl K7CAE Wins         |
+| 440.675 | FM | N7OKN Wins             |
+| 448.075 | FM | AJ9Y WINS IRLP         |
+| 444.3 | FM | Chs EL/IRLP 70cm         |
+| 447.95 | FM | DTPhx N7TWB IRLP        |
+| 447.575 | FM | Glendale EL/IRPL       |
+| 224.9 | FM | W7ARA 1.25M              |
+| 224.2 | FM | WA2DFI 1.25M             |
+| 224.8 | FM | KA7ATV 1.25M             |
+| 224.6 | FM | KD7TKTcondor1.25         |
+| 146.94 | FM | WhtTnks CalLink         |
+| 441.725 | FM | WhtTnk CalLink         |
+| 442.85 | FM | Shaw Phx RimLnk         |
+| 147.36 | FM | W7ARA Ord RimLnk        |
+| 146.86 | FM | UseryMesaMetro          |
+| 146.92 | FM | W7ARA Ord Metro         |
+| 147.24 | FM | Shaw Metro 2M           |
+| 146.76 | FM | Sctsdl Metrolnk         |
+| 52.56 | FM | N7NGM 6m                 |
+| 462.5625 | FM | FRS/GMRS 01           |
+| 462.5875 | FM | FRS/GMRS 02           |
+| 462.6125 | FM | FRS/GMRS 03           |
+| 462.6375 | FM | FRS/GMRS 04           |
+| 462.6625 | FM | FRS/GMRS 05           |
+| 462.6875 | FM | FRS/GMRS 06           |
+| 462.7125 | FM | FRS/GMRS 07           |
+| 467.5625 | FM Narrow | FRS 08         |
+| 467.5875 | FM Narrow | FRS 09         |
+| 467.6125 | FM Narrow | FRS 10         |
+| 467.6375 | FM Narrow | FRS 11         |
+| 467.6625 | FM Narrow | FRS 12         |
+| 467.6875 | FM Narrow | FRS 13         |
+| 467.7125 | FM Narrow | FRS 14         |
+| 462.55 | FM | GMRS 15                 |
+| 462.575 | FM | GMRS 16                |
+| 462.6 | FM | GMRS 17                  |
+| 462.625 | FM | GMRS 18                |
+| 462.65 | FM | GMRS 19                 |
+| 462.675 | FM | GMRS 20 / HELP         |
+| 462.7 | FM | GMRS 21                  |
+| 462.725 | FM | GMRS 22                |
+| 462.55 | FM Narrow | GMRS 550A Repeat |
+| 462.675 | FM | GMRS GlendaleRpt       |
+| 462.625 | FM Narrow | GMRS Mesa625    |
+| 462.725 | FM | GMRS Mesa725           |
+| 462.575 | FM | GMRS Mountain575       |
+| 151.82 | FM | MURS 1                  |
+| 151.88 | FM | MURS 2                  |
+| 151.94 | FM | MURS 3                  |
+| 154.57 | FM | MURS Blue               |
+| 154.6 | FM | MURS Green               |
+| 467.85 | FM | Business Silver         |
+| 467.875 | FM | Business Gold          |
+| 467.9 | FM | Business Red             |
+| 467.925 | FM | Business Blue          |
+| 462.2 | FM | PV Mall Security         |
+| 27.005 | AM | CB Ch. 04 4x4           |
+| 27.065 | AM | CB Ch. 09 SprBwl        |
+| 27.075 | AM | CB Ch. 10 Region        |
+| 27.085 | AM | CB Ch. 11 SprBwl        |
+| 27.115 | AM | CB Ch. 13 RV            |
+| 27.125 | AM | CB Ch. 14 Walkie        |
+| 27.165 | AM | CB Ch. 17 N/S Tr        |
+| 27.185 | AM | CB Ch. 19 E/W Tr        |
+| 27.215 | AM | CB Ch. 21 Region        |
+| 27.385 | FM | CB Ch. 38 SSB CL        |
+| 145.8 | FM Narrow | THE FUCKING ISS   |
+| 145.825 | FM | ISS Packet           |
+| 145.8 | FM | ISS Repeater           |
+| 145.96 | FM | AO-91 Satellite       |
+| 145.88 | FM | AO-92 Satellite       |
+| 145.85 | FM | SaudiSat              |
+| 145.84 | FM | JY1 Telemetry         |
+| 460.2 | FM | DPS phx East           |
+| 460.3 | FM | DPS phx West           |
+| 460.325 | FM | DPS phx Central      |
+| 460.025 | FM | DPS Casa Grande      |
+| 460.475 | FM | DPS Payson/Globe     |
+| 158.91 | FM | MCSO Car              |
+| 159.09 | FM | MCSO Helo Search      |
+| 123.025 | FM | Valley Helocopte     |
+| 123.65 | FM | PHX PD Helo           |
+| 123.45 | AM | AirBand Calling       |
+| 123.025 | AM | AirBand Helochop     |
+| 122.75 | AM | AirBand Private       |
+| 121.5 | AM | AirBand Emergenc       |
+| 430.95 | FM | 70CM SSTC Call        |
+| 145.5 | FM | 2m SSTV Call           |
+| 145.6 | FM | 2m SSTV Call 2         |
+| 144.55 | FM | 2m SSB SSTV Call      |
+| 118.7 | AM | PHX Runway North       |
+| 120.9 | AM | PHX Runway South       |
+| 127.575 | AM | PHX ATIS             |
+| 134.85 | AM | PHX Incidents         |
+| 119.2 | FM | TRACON N Depart        |
+| 128.65 | FM | TRACON N Arrival      |
+| 124.1 | FM | TRACON S Arrival       |
+| 126.8 | FM | TRACON S Depart        |
+| 120.7 | FM | PHXTRA Biltmore        |
+| 123.7 | FM | PHXTRA Tempe           |
+| 147.39 | FM | Payson                |
+| 147.1 | FM | Squaw Peak             |
+| 448.775 | FM | Payson               |
+| 447.475 | FM | Forest Lakes         |
