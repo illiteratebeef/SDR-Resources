@@ -1,0 +1,42 @@
+# !!!!! HEADS-UP WINDOWS USERS !!!!!
+#
+# Do not use Wordpad for editing this file, it will mangle it and your
+# configuration won't work. Use a proper text editor instead.
+# Recommended: Notepad, Notepad++, VSCode, Atom, SublimeText.
+#
+# !!!!! HEADS-UP MACOSX USERS !!!!!
+#
+# If you use Textedit to edit this file make sure to use "plain text format"
+# and "disable smart quotes" in "Textedit > Preferences", otherwise Textedit
+# will use none-compatible characters and your network configuration won't
+# work!
+
+# location
+# note the (-) sign
+# for your hemisphere
+# If latitude is positive, the position is on the northern hemisphere.
+# If latitude is negative, it is on the southern hemisphere.
+# If west of prime meridian, then longitude is negative.
+# If east of prime meridian, then longitude is positive.
+
+# RIGHT CLICK ON GOOGLE MAPS LOCATION, TOP OPTION COPIES YOUR LAT/LON
+LATITUDE=30.00000
+LONGITUDE=-100.00000
+
+# ESTIMATE YOUR ANTENNA HEIGHT INCLUDING HEIGHT ABOVE GROUND LEVEL. GPS TOOLBOX ON YOUR PHONE CAN BE HELPFUL FOR THIS
+ALTITUDE=334m
+# meters 1050m  (no space between number and m)
+# feet   10050ft (no space between number and ft)
+
+# mlat feeder name
+USER="ADSBX_109_Buster"
+
+# dump1090
+DUMP1090=yes
+GAIN=40.2
+
+# dump978
+DUMP978=no
+
+# zerotier secure
+ZEROTIER=no
